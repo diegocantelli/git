@@ -5,3 +5,11 @@ Adicionando e comitando os arquivos em uma única instrução
 Work Area
 	Work area é o diretório onde seus arquivos que são gerenciados pelo GIT estão. Ao mudar de branch os arquivos
 	da sua work area mudam também.
+
+Index/Staging Area
+	A partir do momento que você tenha arquivos na work area e deseje comitá-los, primeiro é necessário
+	adicioná-los à staging area através do comando git add, e então estes arquivos estarão no seu repositório
+	local prontos para serem comitados.
+
+	É possível comitar sem os arquivos estarem na staging area, atravé do comando:
+	git commit caminho/arquivo.txt -a -m "Commit arquivo"
