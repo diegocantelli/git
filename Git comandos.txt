@@ -13,3 +13,7 @@ Index/Staging Area
 
 	É possível comitar sem os arquivos estarem na staging area, atravé do comando:
 	git commit caminho/arquivo.txt -a -m "Commit arquivo"
+
+Stash
+	É um local para armazenar arquivos que foram modificados mas que você não deseja comitá-los no momento
+	de mudar de branch
