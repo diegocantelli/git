@@ -1,0 +1,2 @@
+Adicionando e comitando os arquivos em uma única instrução
+	git -a -m "Adicionando arquivos e comitando"
