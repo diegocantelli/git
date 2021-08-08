@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ProgitProgram
+﻿namespace ProgitProgram
 {
     public class Calculator
     {
