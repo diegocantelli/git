@@ -1,2 +1,7 @@
 Adicionando e comitando os arquivos em uma única instrução
 	git -a -m "Adicionando arquivos e comitando"
+
+
+Work Area
+	Work area é o diretório onde seus arquivos que são gerenciados pelo GIT estão. Ao mudar de branch os arquivos
+	da sua work area mudam também.
